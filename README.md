@@ -1,6 +1,6 @@
 [![MasterHead](https://ibb.co/MCYHzGB)
 
-</h1> align="center">Hi 👋, I'm Is Atheer Alzhrani</h1>
+<h1 align="center">Hi 👋, I'm Is Atheer Alzhrani</h1>
 <h3 align="center">A passionate data scientist from Saudi Arabia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?
