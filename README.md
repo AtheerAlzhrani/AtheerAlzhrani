@@ -1,5 +1,3 @@
-![AtheerAlzhrani](https://ibb.co/TPQzqN2)
-
 <h1 align="center">Hi 👋, I'm Atheer Alzhrani</h1>
 <h3 align="center">A passionate data scientist from Saudi Arabia</h3>
 
