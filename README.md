@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<!--
-**AtheerAlzhrani/AtheerAlzhrani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 My name is Atheer Alzhrani 
 
@@ -10,4 +8,4 @@ My name is Atheer Alzhrani
 - 👯 Open to Collaboration
 - 📫 ## Contact With Me 
 **Email**: [your.email@example.com](mailto:your.email@example.com)
--->
+
