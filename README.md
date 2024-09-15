@@ -7,5 +7,5 @@ My name is Atheer Alzhrani
 - 🌱 I’m currently learning LLM
 - 👯 Open to Collaboration
 - 📫 Contact With Me 
-**Email**: [your.email@example.com](mailto:atheeralzhrani2001@gmail.com)
+**Email**: [atheeralzhrani2001@gmail.com](mailto:atheeralzhrani2001@gmail.com)
 
