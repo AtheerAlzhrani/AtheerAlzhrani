@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-My name is Atheer Alzahrani I have a passion for AI and Data Science 
+My name is Atheer Alzahrani. I have a passion for AI and data science. 
 
 - 🔭 I’m currently working on nlp projects
 - 🌱 I’m currently learning LLM
