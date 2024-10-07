@@ -1,22 +1,6 @@
-## Hi there 👋
-
-
-My name is Atheer Alzahrani. I am a recent graduate from **Al-Baha University**, holding a Bachelor's degree in **Computer Information Systems** with a GPA of **3.75**. I am passionate about data analysis and eager to leverage advanced statistical and machine learning techniques to tackle complex business challenges.
-
-## Education & Training
-
-- **T5 Data Science & AI Bootcamp** (SDAIA)
-  - Completed a rigorous 12-week program focusing on:
-    - Python
-    - SQL
-    - Machine Learning
-    - Deep Learning
-    - Generative AI
-markdown
-Copy code
+# Hi there 👋
 # Welcome to My GitHub Profile!
-
-I am a recent graduate from **Al-Baha University**, holding a Bachelor's degree in **Computer Information Systems** with a GPA of **3.75**. I am passionate about data analysis and eager to leverage advanced statistical and machine learning techniques to tackle complex business challenges.
+My name is Atheer Alzahrani.I am a recent graduate from **Al-Baha University**, holding a Bachelor's degree in **Computer Information Systems** with a GPA of **3.75**. I am passionate about data analysis and eager to leverage advanced statistical and machine learning techniques to tackle complex business challenges.
 
 ## Education & Training
 
