@@ -18,10 +18,12 @@ My name is Atheer Alzahrani.I am a recent graduate from **Al-Baha University**, 
 
 ## Projects
 
+- **BlipCaptioner** Interactive web application that generates descriptive captions for images Aims to allows users to seamlessly convert visual content into meaningful text descriptions.
 - **Divorce Prediction**: Predicted divorce likelihood using survey data with the NBC model.
 - **Finance Question Answering System**: Built a system using Retrieval-Augmented Generation (RAG) techniques.
 - **Depression Detection in Tweets**: Classified over 134,000 tweets using logistic regression and NLP.
 - **OurVoice**: Created an AI-powered sign language interpreter for hearing-impaired individuals.
+  
 
 ## Technical Skills
 
