@@ -31,7 +31,9 @@ My name is Atheer Alzahrani.I am a recent graduate from **Al-Baha University**, 
 Professional Certificate, Coursera Excel Skills for Business Certificate. Linkedln
 Introduction to Career Skills in Data Analytics.
 
-Fluent in **Arabic** and **English**, I am excited to contribute to projects that utilize data to create a positive impact. Feel free to explore my repositories and connect!
+Fluent in **Arabic** and **English**, I am excited to contribute to projects that utilize data to create a positive impact🌟. 
+
+Feel free to explore my repositories and connect!
 
 
 
