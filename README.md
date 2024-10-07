@@ -1,6 +1,6 @@
 # Hi there 👋
 # Welcome to My GitHub Profile!
-My name is Atheer Alzahrani.I am a recent graduate from **Al-Baha University**, holding a Bachelor's degree in **Computer Information Systems** with a GPA of **3.75**. I am passionate about data analysis and eager to leverage advanced statistical and machine learning techniques to tackle complex business challenges.
+My name is Atheer Alzahrani.I am a recent graduate from **Al-Baha University**, holding a Bachelor's degree in **Computer Information Systems**. I am passionate about data analysis and eager to leverage advanced statistical and machine learning techniques to tackle complex business challenges.
 
 ## Professional Training
 
