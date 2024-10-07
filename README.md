@@ -2,7 +2,7 @@
 # Welcome to My GitHub Profile!
 My name is Atheer Alzahrani.I am a recent graduate from **Al-Baha University**, holding a Bachelor's degree in **Computer Information Systems** with a GPA of **3.75**. I am passionate about data analysis and eager to leverage advanced statistical and machine learning techniques to tackle complex business challenges.
 
-## Education & Training
+## Professional Training
 
 - **T5 Data Science & AI Bootcamp** (SDAIA)
   - Completed a rigorous 12-week program focusing on:
@@ -25,8 +25,8 @@ My name is Atheer Alzahrani.I am a recent graduate from **Al-Baha University**, 
 
 ## Technical Skills
 
-- **Languages & Frameworks**: Scikit-Learn, TensorFlow, PyTorch
-- **Data Visualization**: Power BI, Tableau
+- **Languages & Frameworks**: Scikit-Learn, Pandas, TensorFlow, PyTorch, SQL, Python, NLTK.
+- **Data Visualization**: Power BI, Tableau, Matplotlib, Seaborn.
 - **Certifications**: IBM Artificial Intelligence Analyst Certificate , Google Data Analytics
 Professional Certificate, Coursera Excel Skills for Business Certificate. Linkedln
 Introduction to Career Skills in Data Analytics.
@@ -35,6 +35,4 @@ Fluent in **Arabic** and **English**, I am excited to contribute to projects tha
 
 
 
-- 🔭 I’m currently working on NLP and LLM projects
-- 🤝 Open to Collaboration
 
