@@ -14,14 +14,14 @@ My name is Atheer Alzahrani. **Computer Information Systems** graduate. My passi
     - Generative AI
    
 - **Data Science Program** (INE & Saudi Digital Academy):
-- Strengthened skills in:
-  -  Python (Pandas, NumPy)
-  -  SQL
-  -  Database Management (MySQL, MariaDB)
-  - Data Cleaning
-  - Machine Learning Fundamentals
-  - Probability
-  - AI Essentials
+  - Strengthened skills in:
+    -  Python (Pandas, NumPy)
+    -  SQL
+    -  Database Management (MySQL, MariaDB)
+    - Data Cleaning
+    - Machine Learning Fundamentals
+    - Probability
+    - AI Essentials
       
    
       
