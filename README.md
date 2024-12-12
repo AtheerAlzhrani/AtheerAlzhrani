@@ -13,12 +13,17 @@ My name is Atheer Alzahrani. **Computer Information Systems** graduate. My passi
     - Deep Learning
     - Generative AI
    
+- **Data Science Program** (INE & Saudi Digital Academy): Strengthened skills in:
+  -  Python (Pandas, NumPy)
+  -  SQL
+  -  Database Management (MySQL, MariaDB
+  - Data Cleaning
+  - Machine Learning Fundamentals
+  - Probability
+  - AI Essentials
       
-
-## Hands-On Experience
-
-- **User Behavior Analysis**: Developed predictive models during an internship at **Misk Foundation**.
-
+   
+      
 ## Projects
 
 - **BlipCaptioner** Interactive web application that generates descriptive captions for images Aims to allows users to seamlessly convert visual content into meaningful text descriptions.
@@ -31,7 +36,7 @@ My name is Atheer Alzahrani. **Computer Information Systems** graduate. My passi
 ## Technical Skills
 
 - **Languages & Frameworks**: Scikit-Learn, Pandas, TensorFlow, PyTorch, SQL, Python, NLTK.
-- **Data Visualization**: Power BI, Tableau, Matplotlib, Seaborn.
+- **Data Visualization**: Power BI, Matplotlib, Seaborn.
 - **Certifications**: IBM Artificial Intelligence Analyst Certificate , Google Data Analytics
 Professional Certificate, Coursera Excel Skills for Business Certificate. Linkedln
 Introduction to Career Skills in Data Analytics.
