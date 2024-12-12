@@ -1,4 +1,4 @@
-# Hi there 👋Knowing is half the batle so let your knowledge led to action 🚀
+# Hi there 👋Knowing is half the batle so let your knowledge lead to action 🚀
 # Welcome to My GitHub Profile!
 My name is Atheer Alzahrani. **Computer Information Systems** graduate. My passion lies in data analysis, where I aim to leverage advanced statistical and machine learning techniques to support decision-making and solve complex business challenges.
 
