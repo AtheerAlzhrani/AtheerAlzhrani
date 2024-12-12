@@ -16,7 +16,7 @@ My name is Atheer Alzahrani. **Computer Information Systems** graduate. My passi
 - **Data Science Program** (INE & Saudi Digital Academy): Strengthened skills in:
   -  Python (Pandas, NumPy)
   -  SQL
-  -  Database Management (MySQL, MariaDB
+  -  Database Management (MySQL, MariaDB)
   - Data Cleaning
   - Machine Learning Fundamentals
   - Probability
