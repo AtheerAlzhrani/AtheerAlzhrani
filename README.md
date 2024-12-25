@@ -78,12 +78,6 @@ My name is Atheer Alzahrani. **Computer Information Systems** graduate. My passi
    - Jupyter Notebooks
  
      
-- Model Deployment:
-   - Flask / FastAPI
-   - Streamlit
-   - MLflow
-   - Docker
-   - CI/CD for ML
 
 
 
