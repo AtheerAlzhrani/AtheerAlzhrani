@@ -35,50 +35,9 @@ My name is Atheer Alzahrani. **Computer Information Systems** graduate. My passi
   
 
 ## Technical Skills
-
-- Programming Languages:
-  - Python
-  - SQL
- 
-    
-- Data Manipulation and Analysis:
-   - Pandas
-   - NumPy
-   - SciPy
-   - Data Cleaning
- 
      
-- Machine Learning & AI:
-   - Supervised Learning (Linear regression, Logistic regression, SVM)
-   - Unsupervised Learning (Clustering, PCA)
-   - Deep Learning (Neural networks, CNNs, RNNs, LSTMs)
-   - Reinforcement Learning
-   - Natural Language Processing (NLP)
-   - Scikit-learn
-   - TensorFlow / Keras
-   - XGBoost / LightGBM / CatBoost
- 
-- Data Visualization:
-   - Matplotlib
-   - Seaborn
-   - Plotly
-   - Power BI
- 
-     
-- Cloud Computing: Amazon Web Services (AWS)
-  
-- Statistical Analysis:
-  - Hypothesis Testing
-  - Bayesian Inference
-  - A/B Testing
- 
-    
-- Version Control & Collaboration:
-   - Git / GitHub
-   - Jupyter Notebooks
- 
-     
-
+- Languages & Frameworks: SQL, Python, Pandas,NumPy,SciPy, TensorFlow, PyTorch, Matplotlib, Seaborn, Scikit-Learn, NLTK
+- Data Visualization: Power BI, Matplotlib, Seaborn.
 
 
 - **Certifications**: IBM Artificial Intelligence Analyst Certificate , Google Data Analytics
