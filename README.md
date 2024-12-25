@@ -73,8 +73,5 @@ Fluent in **Arabic** and **English**, I am excited to contribute to projects tha
 
 Feel free to explore my repositories and connect!
 
-[Click here to see my Resume](https://ibb.co/8s50gRF)
-
-[Arabic Resume](https://ibb.co/gvZNCSX)
 
 
