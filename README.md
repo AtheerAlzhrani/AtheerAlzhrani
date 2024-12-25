@@ -36,8 +36,8 @@ My name is Atheer Alzahrani. **Computer Information Systems** graduate. My passi
 
 ## Technical Skills
      
-- Languages & Frameworks: SQL, Python, Pandas,NumPy,SciPy, TensorFlow, PyTorch, Matplotlib, Seaborn, Scikit-Learn, NLTK
-- Data Visualization: Power BI, Matplotlib, Seaborn.
+- **Languages & Frameworks:** SQL, Python, Pandas,NumPy,SciPy, TensorFlow, PyTorch, Matplotlib, Seaborn, Scikit-Learn, NLTK
+- **Data Visualization:** Power BI, Matplotlib, Seaborn.
 
 
 - **Certifications**: IBM Artificial Intelligence Analyst Certificate , Google Data Analytics
