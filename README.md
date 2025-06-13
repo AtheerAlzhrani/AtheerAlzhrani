@@ -27,7 +27,7 @@ My name is Atheer Alzahrani. **Computer Information Systems** graduate. My passi
       
 ## Projects Experience
 
-- **TechTactics**:Leverages computer vision, machine learning, OCR, and APIs to provide scouts, coaches, and analysts with 
+- **TechTactics**: Leverages computer vision, machine learning, OCR, and APIs to provide scouts, coaches, and analysts with 
 comprehensive player evaluations, market value predictions, contract insights, and shows sports events..
 - **Divorce Prediction**: Predicted divorce likelihood using survey data with the NBC model.
 - **Finance Question Answering System**: Built a system using Retrieval-Augmented Generation (RAG) techniques.
