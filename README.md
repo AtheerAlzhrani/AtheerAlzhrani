@@ -49,7 +49,7 @@ comprehensive player evaluations, market value predictions, contract insights, a
 
 ## Technical Skills
      
-- **Languages & Frameworks:** SQL, Python, Pandas, NumPy, Pytest, Selenium, Robot Framework, Scikit-Learn, NLTK.
+- **Languages & Frameworks:** SQL, Python, Pytest, Selenium, Robot Framework, Pandas, NumPy, Scikit-Learn, NLTK.
 - **Data Visualization:** Power BI, Matplotlib, Seaborn.
 
 
