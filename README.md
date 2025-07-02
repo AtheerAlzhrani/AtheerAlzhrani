@@ -39,7 +39,7 @@ My name is Atheer Alzahrani. **Computer Information Systems** graduate.  I'm eag
       
 ## Projects Experience
 
-- **TechTactics**: Leverages computer vision, machine learning, OCR, and APIs to provide scouts, coaches, and analysts with 
+- **AI League Finalist - TechTactics:** AI-Powered Football Analysis Platform (Tuwaiq Academy & SCAI): Leverages computer vision, machine learning, OCR, and APIs to provide scouts, coaches, and analysts with 
 comprehensive player evaluations, market value predictions, contract insights, and shows sports events..
 - **Finance Question Answering System**: Built a system using Retrieval-Augmented Generation (RAG) techniques.
 - **Divorce Prediction**: Predicted divorce likelihood using survey data with the NBC model.
