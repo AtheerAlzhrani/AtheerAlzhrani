@@ -27,7 +27,7 @@ My name is Atheer Alzahrani. **Computer Information Systems** graduate.  I'm eag
     - Probability
     - AI Essentials
    
-  - **T5 Data Science & AI Bootcamp** (SDAIA)
+ - **T5 Data Science & AI Bootcamp** (SDAIA)
   - Completed a rigorous 12-week program focusing on:
     - Python
     - SQL
