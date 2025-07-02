@@ -44,7 +44,7 @@ comprehensive player evaluations, market value predictions, contract insights, a
 - **Finance Question Answering System**: Built a system using Retrieval-Augmented Generation (RAG) techniques.
 - **Divorce Prediction**: Predicted divorce likelihood using survey data with the NBC model.
 - **Depression Detection in Tweets**: Classified over 134,000 tweets using logistic regression and NLP.
-- **OurVoice**: Created an AI-powered sign language interpreter for hearing-impaired individuals.
+- **OurVoice**: An AI-powered sign language interpreter for hearing-impaired individuals.
   
 
 ## Technical Skills
