@@ -4,18 +4,17 @@ My name is Atheer Alzahrani. **Computer Information Systems** graduate.  I'm eag
 
 ## Professional Training
 
-## 🧪 Python Automation Testing Path (Test Automation University)
-
-Strengthened skills in:
-- 🐍 Python Programming
-- ✅ Pytest for Test Automation
-- 🔍 Web Element Locator Strategies
-- 🌐 Selenium WebDriver with Python
-- 🎨 Automated Visual Testing with Python
-- 🔗 API Testing in Python
-- 📘 Behavior-Driven Development with `pytest-bdd`
-- 🤖 Robot Framework for Test Automation
-- 📊 Testing Machine Learning Models
+- **Python Automation Testing Path** (Test Automation University)
+  - Strengthened skills in:
+    - Python Programming
+    - Pytest for Test Automation
+    - Web Element Locator Strategies
+    - Selenium WebDriver with Python
+    - Automated Visual Testing with Python
+    - API Testing in Python
+    - Behavior-Driven Development with `pytest-bdd`
+    - Robot Framework for Test Automation
+    - Testing Machine Learning Models
 
    
 - **Data Science Program** (INE & Saudi Digital Academy):
